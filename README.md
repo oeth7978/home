@@ -1,2 +1,1 @@
-# home
-New account using uni email
+# self_learning
